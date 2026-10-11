@@ -6,7 +6,9 @@
 0.0.0.0 a.csfd.cz
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.turn.com
+0.0.0.0 ad.yieldlab.com
 0.0.0.0 ads-pd.nbcuni.com
+0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 advert.uloz.to
 0.0.0.0 adx.adform.net
@@ -18,6 +20,7 @@
 0.0.0.0 bbcdn.go.idnes.bbelements.com
 0.0.0.0 blesk.os.tcbrn-ads.sa.cz
 0.0.0.0 c.imedia.cz
+0.0.0.0 c1.adform.net
 0.0.0.0 cas.criteo.com
 0.0.0.0 cdn.cpex.cz
 0.0.0.0 cdn.onthe.io
@@ -35,6 +38,7 @@
 0.0.0.0 grmtech.neth.imedia.cz
 0.0.0.0 i.mimibazar.cz
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 imagesnep.admaster.cc
 0.0.0.0 img.blesk.cz
 0.0.0.0 ingest.datachine.com
 0.0.0.0 iptracer.semnicneposilejte.cz
@@ -53,6 +57,7 @@
 0.0.0.0 servix.idnes.cz
 0.0.0.0 ssp.wp.pl
 0.0.0.0 stat.cncenter.cz
+0.0.0.0 static.criteo.net
 0.0.0.0 static.hotjar.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 swrap.tradedoubler.com
@@ -62,3 +67,4 @@
 0.0.0.0 trackad.cz
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 zne2-ib.adnxs.com
